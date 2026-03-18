@@ -3,3 +3,4 @@ __pycache__/
 .env
 intel_cache.json
 output/
+data/
